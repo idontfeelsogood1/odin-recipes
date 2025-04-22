@@ -1,0 +1,36 @@
+h1, ul, li
+{   
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1
+{
+    text-align: center;
+    width: 250px;
+    margin: auto;
+    background-color: gold;
+    border: thin solid black;
+    border-width: 5px;
+}
+
+ul
+{   
+    align-content: center;
+    height: 110px;
+    width: 250px;
+    background-color: gold;
+    border: thin solid black;
+    border-width: 5px;
+}
+
+li
+{   
+    border: thin solid black;
+    background-color: white;
+    width:fit-content;
+    margin: 10px;
+}
+
+
+
